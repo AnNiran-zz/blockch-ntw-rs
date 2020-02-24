@@ -9,11 +9,11 @@ Message types:
 `version`
 `reject`
 
-next:
+to be implemented next:
 `sendheaders`
 `block`
 
-scripts serialization and deserialization
-bitcoin operators codes
-transactions inputs and outputs
+`scripts serialization and deserialization`
+`bitcoin operators codes`
+`transactions inputs and outputs`
 
